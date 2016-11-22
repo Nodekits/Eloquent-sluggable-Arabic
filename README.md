@@ -21,18 +21,18 @@ How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/c
 
 ##طريقة العمل
 
-- توجه الى الملف Slugify.php  في المجلد التالي : 
+1. توجه الى الملف Slugify.php  في المجلد التالي : 
  ```
 /vendor/cocur/slugify/src/Slugify.php
 ```
     
-- غير القيمة الثابتة `LOWERCASE_NUMBERS_DASHES` الى 
+2. غير القيمة الثابتة `LOWERCASE_NUMBERS_DASHES` الى 
   
  ```php
 const LOWERCASE_NUMBERS_DASHES = '/([^\p{Arabic}a-zA-Z0-9]+|-+)/u';  
 ```
 
-- توجه الى الملف [DefaultRuleProvider](https://github.com/nodekits/eluquent-sluggable-arabic/blob/master/DefaultRuleProvider.php) ثم استبدله بالملف التالي : 
+3. توجه الى الملف [DefaultRuleProvider](https://github.com/nodekits/eluquent-sluggable-arabic/blob/master/DefaultRuleProvider.php) ثم استبدله بالملف التالي : 
 
 
 Thx for [Abanoub Samaan](https://github.com/abanoubsamaan)
