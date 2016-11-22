@@ -1,11 +1,10 @@
 # eluquent-sluggable-Arabic
 
-How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable)
+How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) & [Slugify](https://github.com/cocur/slugify)
 
- [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) كيف تستعمل اللغة العربية في مكتبة
+[Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) & [Slugify](https://github.com/cocur/slugify) كيف تستعمل اللغة العربية في مكتبة
 
 ##installation 
-
 
 1. Go to Slugify.php file in Dir :
 
