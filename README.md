@@ -1,4 +1,4 @@
-# eluquent-sluggable-Arabic - Slugify-Arabic
+# eluquent-sluggable-Arabic | Slugify-Arabic
 
 How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) & [Slugify](https://github.com/cocur/slugify)
 
