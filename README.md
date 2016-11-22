@@ -9,6 +9,9 @@ How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/c
 
 1. Go to Slugify.php file in Dir :
 
+ ```
+/vendor/cocur/slugify/src/Slugify.php
+```
     
 2. Change the const `LOWERCASE_NUMBERS_DASHES` to :
 
@@ -19,8 +22,9 @@ How to use arabic languages in Laravel [Eloquent Sluggable](https://github.com/c
 ##طريقة العمل
 
 - توجه الى الملف Slugify.php  في المجلد التالي : 
-
-    /vendor/cocur/slugify/src/Slugify.php
+ ```
+/vendor/cocur/slugify/src/Slugify.php
+```
     
 - غير القيمة الثابتة `LOWERCASE_NUMBERS_DASHES` الى 
   
